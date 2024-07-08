@@ -1,0 +1,14 @@
+/Users/anitankwocha/Documents/Workspace/C#INTRO/Parameters/obj/Debug/net8.0/Parameters.GeneratedMSBuildEditorConfig.editorconfig
+/Users/anitankwocha/Documents/Workspace/C#INTRO/Parameters/obj/Debug/net8.0/Parameters.AssemblyInfoInputs.cache
+/Users/anitankwocha/Documents/Workspace/C#INTRO/Parameters/obj/Debug/net8.0/Parameters.AssemblyInfo.cs
+/Users/anitankwocha/Documents/Workspace/C#INTRO/Parameters/obj/Debug/net8.0/Parameters.csproj.CoreCompileInputs.cache
+/Users/anitankwocha/Documents/Workspace/C#INTRO/Parameters/bin/Debug/net8.0/Parameters
+/Users/anitankwocha/Documents/Workspace/C#INTRO/Parameters/bin/Debug/net8.0/Parameters.deps.json
+/Users/anitankwocha/Documents/Workspace/C#INTRO/Parameters/bin/Debug/net8.0/Parameters.runtimeconfig.json
+/Users/anitankwocha/Documents/Workspace/C#INTRO/Parameters/bin/Debug/net8.0/Parameters.dll
+/Users/anitankwocha/Documents/Workspace/C#INTRO/Parameters/bin/Debug/net8.0/Parameters.pdb
+/Users/anitankwocha/Documents/Workspace/C#INTRO/Parameters/obj/Debug/net8.0/Parameters.dll
+/Users/anitankwocha/Documents/Workspace/C#INTRO/Parameters/obj/Debug/net8.0/refint/Parameters.dll
+/Users/anitankwocha/Documents/Workspace/C#INTRO/Parameters/obj/Debug/net8.0/Parameters.pdb
+/Users/anitankwocha/Documents/Workspace/C#INTRO/Parameters/obj/Debug/net8.0/Parameters.genruntimeconfig.cache
+/Users/anitankwocha/Documents/Workspace/C#INTRO/Parameters/obj/Debug/net8.0/ref/Parameters.dll

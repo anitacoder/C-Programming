@@ -1,0 +1,14 @@
+/Users/anitankwocha/Documents/Workspace/C#INTRO/StructureClass/obj/Debug/net8.0/StructureClass.GeneratedMSBuildEditorConfig.editorconfig
+/Users/anitankwocha/Documents/Workspace/C#INTRO/StructureClass/obj/Debug/net8.0/StructureClass.AssemblyInfoInputs.cache
+/Users/anitankwocha/Documents/Workspace/C#INTRO/StructureClass/obj/Debug/net8.0/StructureClass.AssemblyInfo.cs
+/Users/anitankwocha/Documents/Workspace/C#INTRO/StructureClass/obj/Debug/net8.0/StructureClass.csproj.CoreCompileInputs.cache
+/Users/anitankwocha/Documents/Workspace/C#INTRO/StructureClass/bin/Debug/net8.0/StructureClass
+/Users/anitankwocha/Documents/Workspace/C#INTRO/StructureClass/bin/Debug/net8.0/StructureClass.deps.json
+/Users/anitankwocha/Documents/Workspace/C#INTRO/StructureClass/bin/Debug/net8.0/StructureClass.runtimeconfig.json
+/Users/anitankwocha/Documents/Workspace/C#INTRO/StructureClass/bin/Debug/net8.0/StructureClass.dll
+/Users/anitankwocha/Documents/Workspace/C#INTRO/StructureClass/bin/Debug/net8.0/StructureClass.pdb
+/Users/anitankwocha/Documents/Workspace/C#INTRO/StructureClass/obj/Debug/net8.0/StructureClass.dll
+/Users/anitankwocha/Documents/Workspace/C#INTRO/StructureClass/obj/Debug/net8.0/refint/StructureClass.dll
+/Users/anitankwocha/Documents/Workspace/C#INTRO/StructureClass/obj/Debug/net8.0/StructureClass.pdb
+/Users/anitankwocha/Documents/Workspace/C#INTRO/StructureClass/obj/Debug/net8.0/StructureClass.genruntimeconfig.cache
+/Users/anitankwocha/Documents/Workspace/C#INTRO/StructureClass/obj/Debug/net8.0/ref/StructureClass.dll

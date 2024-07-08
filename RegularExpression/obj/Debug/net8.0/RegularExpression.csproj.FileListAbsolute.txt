@@ -1,0 +1,14 @@
+/Users/anitankwocha/Documents/Workspace/C#INTRO/RegularExpression/obj/Debug/net8.0/RegularExpression.GeneratedMSBuildEditorConfig.editorconfig
+/Users/anitankwocha/Documents/Workspace/C#INTRO/RegularExpression/obj/Debug/net8.0/RegularExpression.AssemblyInfoInputs.cache
+/Users/anitankwocha/Documents/Workspace/C#INTRO/RegularExpression/obj/Debug/net8.0/RegularExpression.AssemblyInfo.cs
+/Users/anitankwocha/Documents/Workspace/C#INTRO/RegularExpression/obj/Debug/net8.0/RegularExpression.csproj.CoreCompileInputs.cache
+/Users/anitankwocha/Documents/Workspace/C#INTRO/RegularExpression/bin/Debug/net8.0/RegularExpression
+/Users/anitankwocha/Documents/Workspace/C#INTRO/RegularExpression/bin/Debug/net8.0/RegularExpression.deps.json
+/Users/anitankwocha/Documents/Workspace/C#INTRO/RegularExpression/bin/Debug/net8.0/RegularExpression.runtimeconfig.json
+/Users/anitankwocha/Documents/Workspace/C#INTRO/RegularExpression/bin/Debug/net8.0/RegularExpression.dll
+/Users/anitankwocha/Documents/Workspace/C#INTRO/RegularExpression/bin/Debug/net8.0/RegularExpression.pdb
+/Users/anitankwocha/Documents/Workspace/C#INTRO/RegularExpression/obj/Debug/net8.0/RegularExpression.dll
+/Users/anitankwocha/Documents/Workspace/C#INTRO/RegularExpression/obj/Debug/net8.0/refint/RegularExpression.dll
+/Users/anitankwocha/Documents/Workspace/C#INTRO/RegularExpression/obj/Debug/net8.0/RegularExpression.pdb
+/Users/anitankwocha/Documents/Workspace/C#INTRO/RegularExpression/obj/Debug/net8.0/RegularExpression.genruntimeconfig.cache
+/Users/anitankwocha/Documents/Workspace/C#INTRO/RegularExpression/obj/Debug/net8.0/ref/RegularExpression.dll

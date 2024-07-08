@@ -1,0 +1,14 @@
+/Users/anitankwocha/Downloads/C#INTRO/TwoDArray/bin/Debug/net8.0/TwoDArray
+/Users/anitankwocha/Downloads/C#INTRO/TwoDArray/bin/Debug/net8.0/TwoDArray.deps.json
+/Users/anitankwocha/Downloads/C#INTRO/TwoDArray/bin/Debug/net8.0/TwoDArray.runtimeconfig.json
+/Users/anitankwocha/Downloads/C#INTRO/TwoDArray/bin/Debug/net8.0/TwoDArray.dll
+/Users/anitankwocha/Downloads/C#INTRO/TwoDArray/bin/Debug/net8.0/TwoDArray.pdb
+/Users/anitankwocha/Downloads/C#INTRO/TwoDArray/obj/Debug/net8.0/TwoDArray.GeneratedMSBuildEditorConfig.editorconfig
+/Users/anitankwocha/Downloads/C#INTRO/TwoDArray/obj/Debug/net8.0/TwoDArray.AssemblyInfoInputs.cache
+/Users/anitankwocha/Downloads/C#INTRO/TwoDArray/obj/Debug/net8.0/TwoDArray.AssemblyInfo.cs
+/Users/anitankwocha/Downloads/C#INTRO/TwoDArray/obj/Debug/net8.0/TwoDArray.csproj.CoreCompileInputs.cache
+/Users/anitankwocha/Downloads/C#INTRO/TwoDArray/obj/Debug/net8.0/TwoDArray.dll
+/Users/anitankwocha/Downloads/C#INTRO/TwoDArray/obj/Debug/net8.0/refint/TwoDArray.dll
+/Users/anitankwocha/Downloads/C#INTRO/TwoDArray/obj/Debug/net8.0/TwoDArray.pdb
+/Users/anitankwocha/Downloads/C#INTRO/TwoDArray/obj/Debug/net8.0/TwoDArray.genruntimeconfig.cache
+/Users/anitankwocha/Downloads/C#INTRO/TwoDArray/obj/Debug/net8.0/ref/TwoDArray.dll

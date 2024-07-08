@@ -1,0 +1,14 @@
+/Users/anitankwocha/Downloads/C#INTRO/NameSpace/obj/Debug/net8.0/NameSpace.GeneratedMSBuildEditorConfig.editorconfig
+/Users/anitankwocha/Downloads/C#INTRO/NameSpace/obj/Debug/net8.0/NameSpace.AssemblyInfoInputs.cache
+/Users/anitankwocha/Downloads/C#INTRO/NameSpace/obj/Debug/net8.0/NameSpace.AssemblyInfo.cs
+/Users/anitankwocha/Downloads/C#INTRO/NameSpace/obj/Debug/net8.0/NameSpace.csproj.CoreCompileInputs.cache
+/Users/anitankwocha/Downloads/C#INTRO/NameSpace/bin/Debug/net8.0/NameSpace
+/Users/anitankwocha/Downloads/C#INTRO/NameSpace/bin/Debug/net8.0/NameSpace.deps.json
+/Users/anitankwocha/Downloads/C#INTRO/NameSpace/bin/Debug/net8.0/NameSpace.runtimeconfig.json
+/Users/anitankwocha/Downloads/C#INTRO/NameSpace/bin/Debug/net8.0/NameSpace.dll
+/Users/anitankwocha/Downloads/C#INTRO/NameSpace/bin/Debug/net8.0/NameSpace.pdb
+/Users/anitankwocha/Downloads/C#INTRO/NameSpace/obj/Debug/net8.0/NameSpace.dll
+/Users/anitankwocha/Downloads/C#INTRO/NameSpace/obj/Debug/net8.0/refint/NameSpace.dll
+/Users/anitankwocha/Downloads/C#INTRO/NameSpace/obj/Debug/net8.0/NameSpace.pdb
+/Users/anitankwocha/Downloads/C#INTRO/NameSpace/obj/Debug/net8.0/NameSpace.genruntimeconfig.cache
+/Users/anitankwocha/Downloads/C#INTRO/NameSpace/obj/Debug/net8.0/ref/NameSpace.dll

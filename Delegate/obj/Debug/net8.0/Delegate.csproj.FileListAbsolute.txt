@@ -1,0 +1,14 @@
+/Users/anitankwocha/Documents/Workspace/C#INTRO/Delegate/bin/Debug/net8.0/Delegate
+/Users/anitankwocha/Documents/Workspace/C#INTRO/Delegate/bin/Debug/net8.0/Delegate.deps.json
+/Users/anitankwocha/Documents/Workspace/C#INTRO/Delegate/bin/Debug/net8.0/Delegate.runtimeconfig.json
+/Users/anitankwocha/Documents/Workspace/C#INTRO/Delegate/bin/Debug/net8.0/Delegate.dll
+/Users/anitankwocha/Documents/Workspace/C#INTRO/Delegate/bin/Debug/net8.0/Delegate.pdb
+/Users/anitankwocha/Documents/Workspace/C#INTRO/Delegate/obj/Debug/net8.0/Delegate.GeneratedMSBuildEditorConfig.editorconfig
+/Users/anitankwocha/Documents/Workspace/C#INTRO/Delegate/obj/Debug/net8.0/Delegate.AssemblyInfoInputs.cache
+/Users/anitankwocha/Documents/Workspace/C#INTRO/Delegate/obj/Debug/net8.0/Delegate.AssemblyInfo.cs
+/Users/anitankwocha/Documents/Workspace/C#INTRO/Delegate/obj/Debug/net8.0/Delegate.csproj.CoreCompileInputs.cache
+/Users/anitankwocha/Documents/Workspace/C#INTRO/Delegate/obj/Debug/net8.0/Delegate.dll
+/Users/anitankwocha/Documents/Workspace/C#INTRO/Delegate/obj/Debug/net8.0/refint/Delegate.dll
+/Users/anitankwocha/Documents/Workspace/C#INTRO/Delegate/obj/Debug/net8.0/Delegate.pdb
+/Users/anitankwocha/Documents/Workspace/C#INTRO/Delegate/obj/Debug/net8.0/Delegate.genruntimeconfig.cache
+/Users/anitankwocha/Documents/Workspace/C#INTRO/Delegate/obj/Debug/net8.0/ref/Delegate.dll

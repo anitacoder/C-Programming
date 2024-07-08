@@ -1,0 +1,14 @@
+/Users/anitankwocha/Documents/Workspace/C#INTRO/abstractClass/bin/Debug/net8.0/abstractClass
+/Users/anitankwocha/Documents/Workspace/C#INTRO/abstractClass/bin/Debug/net8.0/abstractClass.deps.json
+/Users/anitankwocha/Documents/Workspace/C#INTRO/abstractClass/bin/Debug/net8.0/abstractClass.runtimeconfig.json
+/Users/anitankwocha/Documents/Workspace/C#INTRO/abstractClass/bin/Debug/net8.0/abstractClass.dll
+/Users/anitankwocha/Documents/Workspace/C#INTRO/abstractClass/bin/Debug/net8.0/abstractClass.pdb
+/Users/anitankwocha/Documents/Workspace/C#INTRO/abstractClass/obj/Debug/net8.0/abstractClass.GeneratedMSBuildEditorConfig.editorconfig
+/Users/anitankwocha/Documents/Workspace/C#INTRO/abstractClass/obj/Debug/net8.0/abstractClass.AssemblyInfoInputs.cache
+/Users/anitankwocha/Documents/Workspace/C#INTRO/abstractClass/obj/Debug/net8.0/abstractClass.AssemblyInfo.cs
+/Users/anitankwocha/Documents/Workspace/C#INTRO/abstractClass/obj/Debug/net8.0/abstractClass.csproj.CoreCompileInputs.cache
+/Users/anitankwocha/Documents/Workspace/C#INTRO/abstractClass/obj/Debug/net8.0/abstractClass.dll
+/Users/anitankwocha/Documents/Workspace/C#INTRO/abstractClass/obj/Debug/net8.0/refint/abstractClass.dll
+/Users/anitankwocha/Documents/Workspace/C#INTRO/abstractClass/obj/Debug/net8.0/abstractClass.pdb
+/Users/anitankwocha/Documents/Workspace/C#INTRO/abstractClass/obj/Debug/net8.0/abstractClass.genruntimeconfig.cache
+/Users/anitankwocha/Documents/Workspace/C#INTRO/abstractClass/obj/Debug/net8.0/ref/abstractClass.dll

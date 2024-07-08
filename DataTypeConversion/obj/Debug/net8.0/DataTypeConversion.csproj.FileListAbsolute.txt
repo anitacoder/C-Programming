@@ -1,0 +1,14 @@
+/Users/anitankwocha/Documents/Workspace/C#INTRO/DataTypeConversion/obj/Debug/net8.0/DataTypeConversion.GeneratedMSBuildEditorConfig.editorconfig
+/Users/anitankwocha/Documents/Workspace/C#INTRO/DataTypeConversion/obj/Debug/net8.0/DataTypeConversion.AssemblyInfoInputs.cache
+/Users/anitankwocha/Documents/Workspace/C#INTRO/DataTypeConversion/obj/Debug/net8.0/DataTypeConversion.AssemblyInfo.cs
+/Users/anitankwocha/Documents/Workspace/C#INTRO/DataTypeConversion/obj/Debug/net8.0/DataTypeConversion.csproj.CoreCompileInputs.cache
+/Users/anitankwocha/Documents/Workspace/C#INTRO/DataTypeConversion/bin/Debug/net8.0/DataTypeConversion
+/Users/anitankwocha/Documents/Workspace/C#INTRO/DataTypeConversion/bin/Debug/net8.0/DataTypeConversion.deps.json
+/Users/anitankwocha/Documents/Workspace/C#INTRO/DataTypeConversion/bin/Debug/net8.0/DataTypeConversion.runtimeconfig.json
+/Users/anitankwocha/Documents/Workspace/C#INTRO/DataTypeConversion/bin/Debug/net8.0/DataTypeConversion.dll
+/Users/anitankwocha/Documents/Workspace/C#INTRO/DataTypeConversion/bin/Debug/net8.0/DataTypeConversion.pdb
+/Users/anitankwocha/Documents/Workspace/C#INTRO/DataTypeConversion/obj/Debug/net8.0/DataTypeConversion.dll
+/Users/anitankwocha/Documents/Workspace/C#INTRO/DataTypeConversion/obj/Debug/net8.0/refint/DataTypeConversion.dll
+/Users/anitankwocha/Documents/Workspace/C#INTRO/DataTypeConversion/obj/Debug/net8.0/DataTypeConversion.pdb
+/Users/anitankwocha/Documents/Workspace/C#INTRO/DataTypeConversion/obj/Debug/net8.0/DataTypeConversion.genruntimeconfig.cache
+/Users/anitankwocha/Documents/Workspace/C#INTRO/DataTypeConversion/obj/Debug/net8.0/ref/DataTypeConversion.dll

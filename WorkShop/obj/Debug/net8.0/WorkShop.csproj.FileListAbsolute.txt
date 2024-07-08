@@ -1,0 +1,14 @@
+/Users/anitankwocha/Documents/Workspace/C#INTRO/WorkShop/obj/Debug/net8.0/WorkShop.GeneratedMSBuildEditorConfig.editorconfig
+/Users/anitankwocha/Documents/Workspace/C#INTRO/WorkShop/obj/Debug/net8.0/WorkShop.AssemblyInfoInputs.cache
+/Users/anitankwocha/Documents/Workspace/C#INTRO/WorkShop/obj/Debug/net8.0/WorkShop.AssemblyInfo.cs
+/Users/anitankwocha/Documents/Workspace/C#INTRO/WorkShop/obj/Debug/net8.0/WorkShop.csproj.CoreCompileInputs.cache
+/Users/anitankwocha/Documents/Workspace/C#INTRO/WorkShop/bin/Debug/net8.0/WorkShop
+/Users/anitankwocha/Documents/Workspace/C#INTRO/WorkShop/bin/Debug/net8.0/WorkShop.deps.json
+/Users/anitankwocha/Documents/Workspace/C#INTRO/WorkShop/bin/Debug/net8.0/WorkShop.runtimeconfig.json
+/Users/anitankwocha/Documents/Workspace/C#INTRO/WorkShop/bin/Debug/net8.0/WorkShop.dll
+/Users/anitankwocha/Documents/Workspace/C#INTRO/WorkShop/bin/Debug/net8.0/WorkShop.pdb
+/Users/anitankwocha/Documents/Workspace/C#INTRO/WorkShop/obj/Debug/net8.0/WorkShop.dll
+/Users/anitankwocha/Documents/Workspace/C#INTRO/WorkShop/obj/Debug/net8.0/refint/WorkShop.dll
+/Users/anitankwocha/Documents/Workspace/C#INTRO/WorkShop/obj/Debug/net8.0/WorkShop.pdb
+/Users/anitankwocha/Documents/Workspace/C#INTRO/WorkShop/obj/Debug/net8.0/WorkShop.genruntimeconfig.cache
+/Users/anitankwocha/Documents/Workspace/C#INTRO/WorkShop/obj/Debug/net8.0/ref/WorkShop.dll
